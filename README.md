@@ -1,5 +1,5 @@
 # File Organizer
-
+![Tests](https://github.com/taylor-reed-collab/file-organizer/actions/workflows/tests.yml/badge.svg)
 A lightweight Python tool for organizing files by type.
 
 ## What it does
